@@ -13,3 +13,5 @@ another content added from feature branch
 
 I'd like to merge using non-fast-forward merging
 herer and here
+
+wtf
