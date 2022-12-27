@@ -17,9 +17,5 @@ non-fast-forward branching
 =======
 I'd like to merge using non-fast-forward merging
 herer and here
-<<<<<<< HEAD
->>>>>>> feature
-=======
 
 wtf
->>>>>>> feature
