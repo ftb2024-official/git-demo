@@ -10,3 +10,6 @@ yet another content here
 and here to revert all changes :)
 
 another content added from feature branch
+
+some content to do
+non-fast-forward branching
