@@ -11,5 +11,10 @@ and here to revert all changes :)
 
 another content added from feature branch
 
+<<<<<<< HEAD
 some content to do
 non-fast-forward branching
+=======
+I'd like to merge using non-fast-forward merging
+herer and here
+>>>>>>> feature
